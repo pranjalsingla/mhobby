@@ -1,0 +1,51 @@
+img {
+    width: 350px;
+    height: 350px;
+    border-radius: 200px;
+}
+
+#about {
+    text-align: center;
+    background: linear-gradient(#B207F0, #EC07F0);
+    font-size: 24px;
+    z-index: 9;
+}
+
+.line {
+    height: 6px;
+    width: 100px;
+    background-color: aqua;
+    margin: 10px auto;
+}
+
+.navigation {
+    width: 100%;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 33px;
+    font-size: 24px;
+    font-family: cursive;
+}
+
+#br2 {
+    width: 350px;
+    height: 350px;
+    border-radius: 200px;
+}
+
+#favouritebooks {
+    text-align: center;
+    background: linear-gradient(aqua, green);
+    font-size: 24px;
+}
+#work{
+    text-align: center;
+    font-size: 24px;
+    background: linear-gradient(#E3EB54,#ED9366)
+}
+#navigation{
+    z-index: 10;
+}
